@@ -59,6 +59,10 @@ img {
 
 }
 
+.tribunelogo {
+  width:350px;
+  height:auto;
+}
 
 
 
@@ -143,7 +147,7 @@ img {
   font-weight: 900;
   color: white;
   position:absolute;
-  top:10px;
+  top:25px;
   right:20px;
 }
 
